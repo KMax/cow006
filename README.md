@@ -1,9 +1,5 @@
 # Cow 006 Score Keeper (Корова 006 / 6 nimmt!)
-
-[![Live App](https://img.shields.io/badge/Live_App-kolchinmax.ru%2Fcow006-blue?style=for-the-badge)](https://kolchinmax.ru/cow006/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-> 🐮 **Online Score Keeper:** [**https://kolchinmax.ru/cow006/**](https://kolchinmax.ru/cow006/)
+> 🐮 **Live App:** [**https://kolchinmax.ru/cow006/**](https://kolchinmax.ru/cow006/)
 
 [Cow 006](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%B2%D0%B0_006) (Russian: «Корова 006») is a popular card game designed by Wolfgang Kramer — the Russian edition of the famous game **[6 nimmt!](https://en.wikipedia.org/wiki/6_nimmt!)** (also known as *Take 5!* / *Take 6!* / *Category 5*).
 
