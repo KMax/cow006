@@ -1,9 +1,13 @@
-# Telegram Mini App for Cow 006 (Корова 006 / 6 nimmt!)
+# Cow 006 Score Keeper (Корова 006 / 6 nimmt!)
 
+[![Live App](https://img.shields.io/badge/Live_App-kolchinmax.ru%2Fcow006-blue?style=for-the-badge)](https://kolchinmax.ru/cow006/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> 🐮 **Online Score Keeper:** [**https://kolchinmax.ru/cow006/**](https://kolchinmax.ru/cow006/)
 
 [Cow 006](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%B2%D0%B0_006) (Russian: «Корова 006») is a popular card game designed by Wolfgang Kramer — the Russian edition of the famous game **[6 nimmt!](https://en.wikipedia.org/wiki/6_nimmt!)** (also known as *Take 5!* / *Take 6!* / *Category 5*).
 
-This project is a lightweight, mobile-first **Telegram Mini App** & standalone web application designed for scoring rounds in real life without pen and paper.
+This project is a lightweight, mobile-first web application designed for scoring rounds in real life without pen and paper.
 
 ---
 
@@ -14,14 +18,14 @@ When playing **Cow 006 / 6 nimmt!**, remembering and recalculating penalty point
 - Under official rules, the game ends as soon as any player accumulates **66 penalty points**, with the player having the **fewest points winning**.
 - Keeping track on paper is slow, prone to math errors, and easy to lose.
 
-This app solves the problem by providing a fast, fun, and zero-setup score keeper that anyone at the table can open directly on their phone via Telegram.
+This app solves the problem by providing a fast, fun, and zero-setup score keeper that anyone at the table can open directly in their mobile or desktop browser.
 
 ---
 
 ## ✨ Features
 
 - **🐮 Themed UI**: Styled after the secret-agent cow aesthetics of the game.
-- **📱 Telegram Mini App Ready**: Works seamlessly directly inside Telegram on mobile and desktop.
+- **📱 Mobile-First**: Responsive layout optimized for phones and tablets on the game table.
 - **👥 Custom Player Names**: Add players with any fictional nicknames; fun avatar icons are assigned automatically.
 - **⚡ Fast Score Input**: Enter round penalty totals per player in seconds.
 - **📊 Live Leaderboard & 66-Point Warning**:
@@ -30,8 +34,7 @@ This app solves the problem by providing a fast, fun, and zero-setup score keepe
   - Warning indicators for scores approaching 50+ and 66+ points.
 - **📜 Round History Table**: View score breakdown per round with running cumulative totals and an *Undo Round* feature.
 - **🏆 End Game Summary**: Instant podium, rankings, and one-click rematch options.
-- **🔒 Zero-Backend & Privacy Friendly**: All data is stored purely in browser/Telegram client storage (`localStorage`). No external databases or tracking.
-
+- **🔒 Zero-Backend & Privacy Friendly**: All data is stored purely in the browser (`localStorage`). No external databases, accounts, or tracking.
 
 ---
 
